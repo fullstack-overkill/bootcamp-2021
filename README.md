@@ -1,5 +1,5 @@
 # bootcamp-2021
 
-Minha primeira edição do git!!
+Aqui estão os projetos exemplo do bootcamp 2021
 
-Bora lá
+TesteTesteTessste
